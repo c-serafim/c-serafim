@@ -1,4 +1,6 @@
 # c-serafim
+Hi, I'm Cristovao 👋
+I study Economics and I want to use GitHub to share my projects.
 
 # 1. About Me 👋
 Hi there! I'm Cristóvão Serafim, a Senior undergraduate student working towards my Econometrics & Applied Quantitative Economics Bachelor's @ Pace University 📚 💻.
