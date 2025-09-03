@@ -6,7 +6,7 @@ Hi there! I'm Cristóvão Serafim, Data professional with a background in econom
 Based in Brooklyn, NY.
 
 # 2. Interests 💭
-I am interested in Data Science, Economic Policy, Climate, and FinTech.
+I am interested in Economic Policy, Data Science, Climate, and FinTech.
 
 # 3. Projects 📖
 ___
@@ -23,6 +23,6 @@ ___
 ___
 - **Startup Velocity** - *Venture Capital*
 
-    - More recently, I've led the development of a tool that automatically parses and processes a large proprietary dataset of funding rounds and calculates critical metrics such as Startup Velocity, Time Between Deals, Average Check Size, etc.
+    - More recently, I've led the development of a tool that parses and processes a large proprietary dataset of funding rounds and calculates critical metrics such as Startup Velocity, Time Between Deals, Average Check Size, etc.
 ___
 
