@@ -1,14 +1,14 @@
 # c-serafim
 
-# 1. About Me 👋
-Hi there! I'm Cristóvão Serafim, Data professional with a background in economics and research.
+# 1. About Me
+Hi ! I'm Cristóvão Serafim, Data professional with a background in econometrics and VC.
 
 Based in Brooklyn, NY.
 
-# 2. Interests 💭
-I am interested in Economic Policy, Data Science, Climate, and FinTech.
+# 2. Interests
+I am interested in Economic Policy, Data Science, Venture Capital, and FinTech.
 
-# 3. Projects 📖
+# 3. Projects
 ___
 - **What's In Your Wallet?** - *Economics Paper*
 
