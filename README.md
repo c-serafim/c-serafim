@@ -1,8 +1,7 @@
 # c-serafim
 
 # 1. About Me
-Hi ! I'm Cristóvão Serafim, Data professional with a background in econometrics and VC.
-
+I'm Cristóvão Serafim, Data professional with a background in Economics.
 Based in Brooklyn, NY.
 
 # 2. Interests
