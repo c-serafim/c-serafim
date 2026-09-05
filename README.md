@@ -4,7 +4,7 @@ Currently leading analytics, reporting infrastructure, and AI-enabled operationa
 
 ### Working on  
 
-- Analytics engineering
+- Analytics
 - Business intelligence
 - LLMs & AI workflows
 - Startup ecosystem data
